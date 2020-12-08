@@ -1,6 +1,6 @@
-Title of the Task: The banknote dataset involves predicting whether a given banknote is authentic given a number of measures taken from a photograph.
+A Data Science Model which involves predicting whether a given banknote is authentic, given a number of measures taken from a photograph.
 
-Description: The dataset contains 1,372 rows with 5 numeric variables. It is a classification problem with two classes (binary classification).
+Description of Dataset : The dataset contains 1,372 rows with 5 numeric variables. It is a classification problem with two classes (binary classification).
 
 Below provides a list of the five variables in the dataset.variance of Wavelet
 Transformed image (continuous).
@@ -9,4 +9,4 @@ Transformed image (continuous).
 3. entropy of image (continuous).
 4. class (integer).
 
-Objective: Implementing the CART (Classification and Regression Trees) Algorithm
+Algorithm: To make the model, CART (Classification and Regression Trees) Algorithm is Implemented.
